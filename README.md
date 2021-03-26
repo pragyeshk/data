@@ -1,2 +1,2 @@
-# data
-Luxury Hotel
+rooomId : 1
+rName : "Lux A"
